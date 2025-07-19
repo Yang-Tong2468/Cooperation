@@ -1,0 +1,67 @@
+
+skeleton.png
+size: 1825,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+书本
+  rotate: false
+  xy: 2, 1256
+  size: 1821, 752
+  orig: 1920, 1080
+  offset: 51, 81
+  index: -1
+宿舍
+  rotate: true
+  xy: 824, 372
+  size: 882, 912
+  orig: 882, 912
+  offset: 0, 0
+  index: -1
+小卖部
+  rotate: true
+  xy: 2, 2
+  size: 1252, 820
+  orig: 1252, 820
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1990,1387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+商店
+  rotate: false
+  xy: 2, 979
+  size: 1383, 406
+  orig: 1383, 406
+  offset: 0, 0
+  index: -1
+学院
+  rotate: false
+  xy: 1387, 909
+  size: 601, 476
+  orig: 601, 476
+  offset: 0, 0
+  index: -1
+食堂
+  rotate: false
+  xy: 2, 2
+  size: 1455, 905
+  orig: 1455, 905
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1156,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+书页
+  rotate: false
+  xy: 2, 2
+  size: 1152, 1544
+  orig: 1152, 1544
+  offset: 0, 0
+  index: -1
